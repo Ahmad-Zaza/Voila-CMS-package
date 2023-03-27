@@ -1,0 +1,14 @@
+{
+    "title": "Switch Input",
+    "type": "switch",
+    "attribute": {
+      "optional": {
+        "default_value" : "0 | 1",
+        "true_label": "Yes",
+        "false_label" : "No"
+      },
+      "required": {
+
+      }
+    }
+  }
